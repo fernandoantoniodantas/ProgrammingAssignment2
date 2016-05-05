@@ -21,6 +21,9 @@ cacheSolve <- function(a, ...) {
          i
 }
 
-#my_matrix <- makeCacheMatrix(matrix(1:4, 2, 2))
+#for execution:
+
+#test_matrix <- makeCacheMatrix(matrix(1:4, 2, 2))
+#cacheSolve(test_matrix)
 #my_matrix$get()
 
